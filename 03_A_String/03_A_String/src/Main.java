@@ -6,6 +6,7 @@ public class Main {
         System.out.println("I am learning Java output and getting to know Strings better");
         System.out.println("");
 
+
         //--------------------------------------------------------------------------------------------------------------
         // 2. Now print "String concatenation works!" to the console, but not in one piece.
         //    You need to use the "+" operator, which you can also use in the output itself.
